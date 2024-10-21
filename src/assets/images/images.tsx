@@ -1,0 +1,1 @@
+import profileImg from '../images/career.png'
